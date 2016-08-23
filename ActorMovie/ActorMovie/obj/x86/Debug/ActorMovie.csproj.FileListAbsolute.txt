@@ -1,0 +1,14 @@
+D:\1.wcf学习\ActorMovie\ActorMovie\bin\Debug\ActorMovie.exe
+D:\1.wcf学习\ActorMovie\ActorMovie\bin\Debug\ActorMovie.pdb
+D:\1.wcf学习\ActorMovie\ActorMovie\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1.wcf学习\ActorMovie\ActorMovie\obj\x86\Debug\ActorMovie.Properties.Resources.resources
+D:\1.wcf学习\ActorMovie\ActorMovie\obj\x86\Debug\ActorMovie.exe
+D:\1.wcf学习\ActorMovie\ActorMovie\obj\x86\Debug\ActorMovie.pdb
+D:\1.wcf学习\ActorMovie\ActorMovie\obj\x86\Debug\ActorMovie.Form1.resources
+D:\RPG\ActorMovie\ActorMovie\obj\x86\Debug\ActorMovie.exe
+D:\RPG\ActorMovie\ActorMovie\obj\x86\Debug\ActorMovie.pdb
+D:\RPG\ActorMovie\ActorMovie\bin\Debug\ActorMovie.exe
+D:\RPG\ActorMovie\ActorMovie\bin\Debug\ActorMovie.pdb
+D:\RPG\ActorMovie\ActorMovie\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RPG\ActorMovie\ActorMovie\obj\x86\Debug\ActorMovie.Form1.resources
+D:\RPG\ActorMovie\ActorMovie\obj\x86\Debug\ActorMovie.Properties.Resources.resources
