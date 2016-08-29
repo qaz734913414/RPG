@@ -31,6 +31,11 @@ namespace ActorMovie
             this.WalkInterval = 150;
             this.Speed = 15;
         }
+        /// <summary>
+        /// 按键控制
+        /// </summary>
+        /// <param name="player"></param>
+        /// <param name="e"></param>
         public static void KeyControl(Player[] player,KeyEventArgs e)
         {
             Player p = player[CurrentPlayer];
