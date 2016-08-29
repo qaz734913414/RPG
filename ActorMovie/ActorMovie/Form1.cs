@@ -9,6 +9,9 @@ using System.Windows.Forms;
 
 namespace ActorMovie
 {
+    /// <summary>
+    /// 版本1
+    /// </summary>
     public partial class Form1 : Form
     {
         public Player[] Users{ get; set; }
